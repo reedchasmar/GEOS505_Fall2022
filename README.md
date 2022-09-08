@@ -2,5 +2,5 @@
 
 ## Reed Chasmar
 
-Email: [reedchasmar@u.boisestate.edu](reedchasmar@u.boisestate.edu)
+Email: [reedchasmar@u.boisestate.edu](mailto:reedchasmar@u.boisestate.edu)
 
