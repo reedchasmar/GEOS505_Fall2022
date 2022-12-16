@@ -6,7 +6,7 @@ Email: [reedchasmar@u.boisestate.edu](mailto:reedchasmar@u.boisestate.edu)
 
 My research consists of 1) quantifying the spatiotemporal variability of E. coli in two Treasure Valley canal systems, and 2) estimating the metabolic rates of gross primary production (GPP) and ecosystem respiration (ER) within one of the canals throughout the 2022 growing season.
 ![three canal pics](https://user-images.githubusercontent.com/88795345/208201752-a2479add-ed1d-4de9-8698-ffc67be9d46b.png)
-Figure 1. *Left: Sumberged DO sensor; Middle: Water Depth Sensor in PVC pipe; Right: PAR sensor next to Campbell datalogger setup
+Figure 1. *Left: Sumberged DO sensor; Middle: Water Depth Sensor in PVC pipe; Right: PAR sensor next to Campbell datalogger setup*
 
 I will use scientific computing in my research to 1) perform spatial dependence analyses between E. coli levels at variably-spaced sampling sites, and 2) develop several stream metabolism models (i.e., MLE and Bayes) that predict dissolved oxygen trends based on external inputs of temperature, light availability and water depth. I intend to use the Matplotlib library for Python to represent my results in a concise, visually-appealing and professional way.
 
