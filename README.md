@@ -11,6 +11,7 @@ I will use scientific computing in my research to 1) perform spatial dependence 
 2. Goal 2: Learn the basics for using Python and Jupyter Notebook (3 Weeks)
 3. Goal 3: Learn how to problem solve online when I get stuck in the GitBash terminal (Now)
 4. Goal 4: Learn what the best figure options are in Matplotlib library to visualize my results in an compelling way
+5. Goal 5: Learn how to separate my Jupyter notebooks into separate environments based on common library dependencies and related workflows
 
 ## SMART Goals
 
