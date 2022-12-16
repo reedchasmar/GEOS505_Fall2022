@@ -10,6 +10,7 @@ I will use scientific computing in my research to 1) perform spatial dependence 
 1. Goal 1: Learn how to fluidly interact with GitHub through the Bash Terminal so that I can share my code with my advisor (2 Weeks)
 2. Goal 2: Learn the basics for using Python and Jupyter Notebook (3 Weeks)
 3. Goal 3: Learn how to problem solve online when I get stuck in the GitBash terminal (Now)
+4. Goal 4: Learn what the best figure options are in Matplotlib library to visualize my results in an compelling way
 
 ## SMART Goals
 
